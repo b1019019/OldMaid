@@ -1,0 +1,12 @@
+C:\Users\b1019019\source\repos\OldMaid2\obj\Debug\OldMaid2.csprojAssemblyReference.cache
+C:\Users\b1019019\source\repos\OldMaid2\bin\Debug\OldMaid2.exe.config
+C:\Users\b1019019\source\repos\OldMaid2\bin\Debug\OldMaid2.exe
+C:\Users\b1019019\source\repos\OldMaid2\bin\Debug\OldMaid2.pdb
+C:\Users\b1019019\source\repos\OldMaid2\obj\Debug\OldMaid2.exe
+C:\Users\b1019019\source\repos\OldMaid2\obj\Debug\OldMaid2.pdb
+C:\Users\b1019019\Desktop\アウトプット\output\ババ抜き\OldMaid2\bin\Debug\OldMaid2.exe.config
+C:\Users\b1019019\Desktop\アウトプット\output\ババ抜き\OldMaid2\bin\Debug\OldMaid2.exe
+C:\Users\b1019019\Desktop\アウトプット\output\ババ抜き\OldMaid2\bin\Debug\OldMaid2.pdb
+C:\Users\b1019019\Desktop\アウトプット\output\ババ抜き\OldMaid2\obj\Debug\OldMaid2.csprojAssemblyReference.cache
+C:\Users\b1019019\Desktop\アウトプット\output\ババ抜き\OldMaid2\obj\Debug\OldMaid2.exe
+C:\Users\b1019019\Desktop\アウトプット\output\ババ抜き\OldMaid2\obj\Debug\OldMaid2.pdb
